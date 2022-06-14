@@ -11,6 +11,7 @@ A aplicação é um gerenciador de despesas e receitas. As principais funcionali
 - Balanço total de despesas
 - Balanço total receitas
 - Balanço total de despesas e receitas
+- Remover despesas e receitas
 
 ## :wrench: Instalação e uso
 
