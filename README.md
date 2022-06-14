@@ -1,9 +1,6 @@
 <h3 align="center">
   Expense Tracker
 </h3>
-
-:rocket:
-
 <p align="center">
   <img src="https://github.com/rodrigovellinho/ExpenseTracker/blob/main/public/capa.jpg?raw=true" alt="ExpenseTracker">
 </p>
