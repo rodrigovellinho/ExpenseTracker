@@ -1,11 +1,11 @@
-<h3 align="center">
+<h3>
   Expense Tracker
 </h3>
 
 ## :rocket:
 
 <p align="center">
-  <img src= alt="ExpenseTracker">
+  <img src="https://github.com/rodrigovellinho/ExpenseTracker/blob/main/public/capa.jpg?raw=true" alt="ExpenseTracker">
 </p>
 
 A aplicação é um gerenciador de despesas e receitas. As principais funcionalidades são:
