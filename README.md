@@ -1,4 +1,4 @@
-<h3>
+<h3 align="center">
   Expense Tracker
 </h3>
 
